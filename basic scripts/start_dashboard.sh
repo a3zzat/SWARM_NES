@@ -1,0 +1,2 @@
+rosrun kobuki_dashboard kobuki_dashboard
+#roslaunch kobuki_node minimal.launch
