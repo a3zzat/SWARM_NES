@@ -1,2 +1,3 @@
-rosrun kobuki_dashboard kobuki_dashboard
+roslaunch turtlebot_dashboard turtlebot_dashboard.launch
+#rosrun kobuki_dashboard kobuki_dashboard
 #roslaunch kobuki_node minimal.launch
